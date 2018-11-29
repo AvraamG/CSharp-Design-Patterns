@@ -34,3 +34,10 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+*.meta
+<<<<<<< HEAD
+
+# Crashlytics generated file
+Assets/StreamingAssets/crashlytics-build.properties
+=======
+>>>>>>> master
